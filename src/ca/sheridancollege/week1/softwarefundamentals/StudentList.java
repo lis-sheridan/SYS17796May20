@@ -17,7 +17,7 @@ public class StudentList {
     {
        Student [] studentList = new Student[0];//change size before running
        Student s1 = new Student();
-       s1.setName("Ninja");
+       s1.setName("Ninja Turtle");
        studentList[0]=s1;
        //fill in rest 3 student names before running
        Student s2 = new Student();
